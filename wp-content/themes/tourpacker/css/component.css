@@ -468,7 +468,7 @@ input[type='radio']:checked + label:before, input[type='checkbox']:checked + lab
 .tripadvisor-rating { font-size:12px; line-height: 16px; }
 .tripadvisor-rating-hint { position: relative; }
 .tripadvisor-hint { position: absolute; top: 0; left: 60px; font-weight: 500; font-style: italic; line-height: 14px; }
-.tripadvisor-head { padding-left: 25px; padding-top: 1px; background: url('../images/raty/tripadvisor.png') no-repeat left top }
+.tripadvisor-head { padding-left: 25px; padding-top: 1px; background: url('https://roogeorgia.github.io/website/wp-content/themes/tourpacker/images/raty/tripadvisor.png') no-repeat left top }
 
 
 
@@ -521,7 +521,7 @@ input[type='radio']:checked + label:before, input[type='checkbox']:checked + lab
 .slick-arrow.slick-hidden{display:none}
 
 /* Slider */
-.slick-loading .slick-list{background:#fff url(images/slick-loader.gif) center center no-repeat}
+.slick-loading .slick-list{background:#fff url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/images/slick-loader.gif) center center no-repeat}
 /* Arrows */
 .slick-prev,.slick-next{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:40px;height:40px;margin-top:-20px;padding:0;cursor:pointer;color:transparent;border:none;outline:none;background:transparent; line-height: 40px; }
 .slick-prev:hover,.slick-prev:focus,.slick-next:hover,.slick-next:focus{color:transparent;outline:none;background:transparent}
@@ -911,7 +911,7 @@ body.introLoader_preventScroll {
 /* GifLoader Animation */
 /* *************************************************** */
 .introLoader.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_light.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_light.gif);
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -931,49 +931,49 @@ body.introLoader_preventScroll {
   background-color: #ffffff;
 }
 .theme-dark.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_dark.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_dark.gif);
   background-color: #333333;
 }
 .theme-ocean.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_ocean.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_ocean.gif);
   background-color: #164761;
 }
 .theme-forest.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_forest.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_forest.gif);
   background-color: #1f3608;
 }
 .theme-fluoGreen.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_fluoGreen.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_fluoGreen.gif);
   background-color: #67de0f;
 }
 .theme-fluoYellow.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_fluoYellow.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_fluoYellow.gif);
   background-color: #dcff1b;
 }
 .theme-fluoMagenta.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-simple_fluoMagenta.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-simple_fluoMagenta.gif);
   background-color: #ff1bff;
 }
 .theme-light.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_light.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_light.gif);
 }
 .theme-dark.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_dark.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_dark.gif);
 }
 .theme-ocean.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_ocean.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_ocean.gif);
 }
 .theme-forest.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_forest.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_forest.gif);
 }
 .theme-fluoGreen.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_fluoGreen.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_fluoGreen.gif);
 }
 .theme-fluoYellow.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_fluoYellow.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_fluoYellow.gif);
 }
 .theme-fluoMagenta.bubble.gifLoader .gifLoaderInner {
-  background-image: url(spinners/circle-bub_fluoMagenta.gif);
+  background-image: url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/spinners/circle-bub_fluoMagenta.gif);
 }
 /* *************************************************** */
 /* CounterLoader Animation */
@@ -1348,7 +1348,7 @@ html[xmlns] .slides {display: block;}
 /* FlexSlider Customized */
 .flexslider ul { list-style: none; margin: 0; padding: 0; }
 .flexslider { background: transparent; border: none; -webkit-box-shadow: none; box-shadow: none; margin: 0; }
-.flexslider { background:#fff url(images/flex-loader.gif) no-repeat center center; position:relative; zoom:1; border:none;-webkit-box-shadow:none;box-shadow:none; }
+.flexslider { background:#fff url(https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/images/flex-loader.gif) no-repeat center center; position:relative; zoom:1; border:none;-webkit-box-shadow:none;box-shadow:none; }
 .flexslider-image-bg { background-size:cover; background-position:center center; height: 510px; }
 .flexslider-hero-slider { padding: 0; overflow: hidden; width: 100%; margin: 0; position: relative; }
 .flexslider-hero-slider .flexslider { margin: 0; padding: 0; position: relative; }
@@ -1385,12 +1385,12 @@ html[xmlns] .slides {display: block;}
 .youtube-overlay { position:absolute;left:0;top:0;bottom: 0; width:100%;background: rgba(0,0,0,0.3); z-index: 1; }
 .top_box{position:relative;width:100%;height: 510px;overflow:hidden;}
 .top_box iframe{position:absolute;width:400%;height:200%;margin-left:-150%;margin-top:-20%;/* z-index:-99 */}
-.top_box .title{position:absolute;left:50%;top:50%;width:500px;height:240px;margin-left:-250px;margin-top:-260px;text-indent:-9999px;background:url("../images/logo.png") no-repeat 0 0}
-.top_box .btn_pop{position:absolute;left:50%;top:50%;width:128px;height:128px;margin-left:-64px;margin-top:-24px;background:url("../images/btn_pop.png") no-repeat 0 0;cursor:pointer}
-.top_box .btn_vol{position:absolute;right:20px;top:20px;width:32px;height:32px;background:url("images/volume.png") no-repeat;cursor:pointer}
+.top_box .title{position:absolute;left:50%;top:50%;width:500px;height:240px;margin-left:-250px;margin-top:-260px;text-indent:-9999px;background:url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/images/logo.png") no-repeat 0 0}
+.top_box .btn_pop{position:absolute;left:50%;top:50%;width:128px;height:128px;margin-left:-64px;margin-top:-24px;background:url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/images/btn_pop.png") no-repeat 0 0;cursor:pointer}
+.top_box .btn_vol{position:absolute;right:20px;top:20px;width:32px;height:32px;background:url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/images/volume.png") no-repeat;cursor:pointer}
 .top_box .btn_vol.on{background-position:0 0}
 .top_box .btn_vol.off{background-position:0 -32px}
-.top_box .bg_dot{position:absolute;width:100%;height:100%;left:0;top:0;background:url("images/bg.png");z-index:-9}
+.top_box .bg_dot{position:absolute;width:100%;height:100%;left:0;top:0;background:url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/images/bg.png");z-index:-9}
 /* navigation */
 .top_box .control{position:absolute;left:0;top:50%;margin-top:140px;width:100%;text-align:center}
 .top_box .control li{display:inline-block;list-style:none;padding:10px 14px;margin:0 0 4px 0;border:1px solid #FFFFFF;border-radius:8px;width:100px;height:22px;line-height:22px;font-size:14px;color:#FFFFFF;background-color:rgba(255,255,255,.4);cursor:pointer}
@@ -1398,8 +1398,8 @@ html[xmlns] .slides {display: block;}
 .top_box .control li:hover{background-color:#FFFFFF;color:#000000}
 /* popup */
 .pop_yt{position:absolute;left:50%;top:50%;width:960px;height:540px;margin-left:-480px;margin-top:-270px;z-index:99;box-shadow:0 0 20px rgba(0,0,0,.2)}
-.pop_yt .close{position:absolute;right:-40px;top:0;width:40px;height:40px;background:url("images/close.png") no-repeat 0 0;cursor:pointer}
-.pop_overlay{display:none;position:absolute;width:100%;height:100%;left:0;top:0;background:url("images/bg_pop.png");z-index:9}
+.pop_yt .close{position:absolute;right:-40px;top:0;width:40px;height:40px;background:url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/images/close.png") no-repeat 0 0;cursor:pointer}
+.pop_overlay{display:none;position:absolute;width:100%;height:100%;left:0;top:0;background:url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/css/images/bg_pop.png");z-index:9}
 
 @media (min-width: 768px){
 
