@@ -20,13 +20,13 @@
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'id6350504_wp_0de15b6ca3ac64bc5db8e6ea2229d2c9' );
+define( 'DB_NAME', 'roogeorgia_wp' );
 
 /** MySQL database username */
-define( 'DB_USER', 'id6350504_wp_0de15b6ca3ac64bc5db8e6ea2229d2c9' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '33d1f22d694a3f947a814782ac5111975f319331' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -61,7 +61,7 @@ define( 'NONCE_SALT',       'JO=`CVe;sw@9C]|Ox6!/|TIeG**h&Kjv#N<~`se)u[kmKqD#Wb>
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wp_';
+$table_prefix = 'xp3_';
 
 
 
