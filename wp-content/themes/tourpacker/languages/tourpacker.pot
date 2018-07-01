@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#. Text in function
+#: tourpacker/comments.php:15
+msgid " % Comments"
+msgstr ""
+
+#. Text in function
+#: tourpacker/comments.php:15
+msgid " 0 Comments"
+msgstr ""
+
+#. Text in function
+#: tourpacker/comments.php:15
+msgid " 1 Comments"
+msgstr ""
+
+#. Text in function
+#: tourpacker/tag.php:132 tourpacker/index.php:134 tourpacker/search.php:137
+#: tourpacker/single.php:289 tourpacker/author.php:132
+#: tourpacker/archive.php:134 tourpacker/template/blog-page.php:144
+#: tourpacker/category.php:132
+msgid "% comments"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:388
+msgid "% recommend this package"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:136
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/comments.php:26
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:455
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:443
+msgid "2"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:597
+msgid "2016"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:598
+msgid "2017"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:599
+msgid "2018"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:431
+msgid "3"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:419
+msgid "4"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:407
+msgid "5"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Add New Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Add New Tour"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "All Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/author.php:18
+msgid "All posts by: %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:785
+msgid "Already have account?"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:566
+msgid "Any Departure Month"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:596
+msgid "Any Departure Year"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:531
+msgid "Any Destination"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:570
+msgid "April"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Archive for \"%s\""
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Articles Posted by %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:574
+msgid "August"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:470
+msgid "Average Rating For"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:780
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: tourpacker/category.php:18
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/header.php:72 tourpacker/single-tour.php:359
+msgid "Change Search"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:565
+msgid "Choose a Departure Month"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:595
+msgid "Choose a Departure Year"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:530
+msgid "Choose a Destination"
+msgstr ""
+
+#. Text in echo
+#: tourpacker/comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:767
+msgid "Confirm Password"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Contact Form 7"
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/result-list-word-ajax.php:52
+#: tourpacker/template/result-list.php:802
+#: tourpacker/ajax/result-list-filter-ajax.php:54
+#: tourpacker/template/result-list-rightsidebar.php:170
+#: tourpacker/template/result-list-search-home.php:800
+#: tourpacker/ajax/result-list-ajax.php:65
+#: tourpacker/ajax/result-list-checkbox-ajax.php:56
+msgid "Countries:"
+msgstr ""
+
+#. Text in echo
+#: tourpacker/framework/plugins/tourpacker-common/ReduxFramework/sample/sample-config.php:159
+#: tourpacker/framework/plugins/tourpacker-common/ReduxFramework/sample/sample-config.php:162
+msgid "Current theme preview"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:578
+msgid "December"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:709
+msgid "Do you want"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Edit Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Edit Tour"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:760
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:713
+msgid "Email address is not valid!."
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:713
+msgid "Email already exists!."
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/result-list-word-ajax.php:54
+#: tourpacker/template/result-list.php:804
+#: tourpacker/ajax/result-list-filter-ajax.php:56
+#: tourpacker/template/result-list-rightsidebar.php:172
+#: tourpacker/template/result-list-search-home.php:802
+#: tourpacker/ajax/result-list-ajax.php:67
+#: tourpacker/ajax/result-list-checkbox-ajax.php:58
+msgid "Ending Point:"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:713
+msgid "Error on user creation."
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:386
+msgid "Excellent"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:568
+msgid "February"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "First Choice"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Fullwidth"
+msgstr ""
+
+#. Text in function
+#: tourpacker/404.php:45
+msgid "Go To Home"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:567
+msgid "January"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:573
+msgid "July"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:572
+msgid "June"
+msgstr ""
+
+#. Text in function
+#: tourpacker/comments.php:41
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:516
+msgid "Leave comments"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:792
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:709 tourpacker/header.php:158
+msgid "Logout"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Main sidebar that appears on the single blog."
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:532
+msgid "Make an inquiry"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:569
+msgid "March"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:571
+msgid "May"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "New Skills Name"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "New Tour"
+msgstr ""
+
+#. Text in function
+#: tourpacker/comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/demo.php:99
+msgid "No Result.Please Check Month That You Want Search"
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/result-list-word-ajax.php:79
+#: tourpacker/template/result-list.php:831
+#: tourpacker/ajax/result-list-filter-ajax.php:81
+#: tourpacker/template/result-grid-rightsidebar.php:187
+#: tourpacker/template/result-grid.php:809
+#: tourpacker/template/result-list-rightsidebar.php:199
+#: tourpacker/template/result-list-search-home.php:829
+#: tourpacker/ajax/result-list-ajax.php:94
+#: tourpacker/ajax/result-list-checkbox-ajax.php:85
+msgid "No Result.Please Check Query That You Want Search"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "No Tour found"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "No Tour found in Trash"
+msgstr ""
+
+#. Text in function
+#: tourpacker/404.php:40
+msgid "No result that you want access."
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Not Show"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:577
+msgid "November"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:576
+msgid "October"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Parent Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Parent Skills:"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Parent Tour:"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620 tourpacker/functions.php:763
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:713
+msgid "Please do not vacate the required information!"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Primary Navigation Menu (Use For All Page)"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Primary Sidebar"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:532
+msgid "Question?"
+msgstr ""
+
+#. Text in function
+#: tourpacker/index.php:139
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:755 tourpacker/functions.php:776
+msgid "Register"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:374
+msgid "Reviews"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:401
+msgid "Score Breakdown"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:615 tourpacker/template/result-list.php:302
+#: tourpacker/template/result-grid-rightsidebar.php:477
+#: tourpacker/template/result-grid.php:293
+#: tourpacker/template/result-list-rightsidebar.php:484
+#: tourpacker/template/result-list-search-home.php:298
+#: tourpacker/framework/plugins/tourpacker-common/custom-visual/shortcodes.php:288
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Search Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Search Tour"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Search for..."
+msgstr ""
+
+#. Text in function
+#: tourpacker/search.php:18
+msgid "Search results for: %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Section HTML"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:93
+msgid "See dates &amp; Book Now"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Select Fullwidth or not"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Select Show Div Overlay or not"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:575
+msgid "September"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Set HTML section"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-visual/shortcodes.php:420
+msgid "Show more departures"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Show or not Show Div Overlay"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "Sign in"
+msgstr ""
+
+#. Text in function
+#: tourpacker/header.php:160
+msgid "Sign up/in"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620 tourpacker/functions.php:785
+msgid "Sign-in"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: tourpacker/search.php:146
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/result-list-word-ajax.php:53
+#: tourpacker/template/result-list.php:803
+#: tourpacker/ajax/result-list-filter-ajax.php:55
+#: tourpacker/template/result-list-rightsidebar.php:171
+#: tourpacker/template/result-list-search-home.php:801
+#: tourpacker/ajax/result-list-ajax.php:66
+#: tourpacker/ajax/result-list-checkbox-ajax.php:57
+msgid "Starting Point:"
+msgstr ""
+
+#. Text in function
+#: tourpacker/tag.php:18
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:512
+msgid "There are"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/ReduxFramework/sample/sample-config.php:176
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Tour"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:713
+msgid "Two Password is not the same!."
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "Update Skills"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620 tourpacker/functions.php:757
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: tourpacker/framework/plugins/tourpacker-common/custom-post-type/tourpacker_post_type.php:1
+msgid "View Tour"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Wp Full Stripe Free"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:709
+msgid "You have login with user"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:713
+msgid "You have successfully registered !"
+msgstr ""
+
+#. Text in echo
+#: tourpacker/functions.php:141
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: tourpacker/tag.php:132 tourpacker/index.php:134 tourpacker/search.php:137
+#: tourpacker/single.php:289 tourpacker/author.php:132
+#: tourpacker/archive.php:134 tourpacker/template/blog-page.php:144
+#: tourpacker/category.php:132
+msgid "comments ( 0 )"
+msgstr ""
+
+#. Text in function
+#: tourpacker/tag.php:132 tourpacker/index.php:134 tourpacker/search.php:137
+#: tourpacker/single.php:289 tourpacker/author.php:132
+#: tourpacker/archive.php:134 tourpacker/template/blog-page.php:144
+#: tourpacker/category.php:132
+msgid "comments ( 1 )"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "oneclick Common"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:532
+msgid "or call"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "password"
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/result-list-word-ajax.php:62
+#: tourpacker/template/result-list.php:812
+#: tourpacker/ajax/result-list-filter-ajax.php:64
+#: tourpacker/template/result-grid-rightsidebar.php:169
+#: tourpacker/template/result-grid.php:791
+#: tourpacker/template/result-list-rightsidebar.php:180
+#: tourpacker/template/result-list-search-home.php:810
+#: tourpacker/ajax/result-list-ajax.php:75 tourpacker/single-tour.php:44
+#: tourpacker/framework/plugins/tourpacker-common/custom-visual/shortcodes.php:998
+#: tourpacker/ajax/result-list-checkbox-ajax.php:66
+msgid "review"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:512
+msgid "reviews"
+msgstr ""
+
+#. Text in function
+#: tourpacker/single-tour.php:83
+msgid "starting from"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:803
+msgid "tourpacker Common"
+msgstr ""
+
+#. Text in function
+#: tourpacker/functions.php:620
+msgid "username"
+msgstr ""
+
+#. Text in function
+#: tourpacker/ajax/result-list-word-ajax.php:68
+#: tourpacker/template/result-list.php:818
+#: tourpacker/ajax/result-list-filter-ajax.php:70
+#: tourpacker/template/result-list-rightsidebar.php:186
+#: tourpacker/template/result-list-search-home.php:816
+#: tourpacker/ajax/result-list-ajax.php:81
+#: tourpacker/ajax/result-list-checkbox-ajax.php:72
+msgid "view"
+msgstr ""
