@@ -77,7 +77,7 @@ if(have_posts()):
               </div>
             </li>
             
-            <li class="price-box">
+            <li class="hidden price-box">
               <div class="meta">
                 <span class="block"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_single_number_price);?></span>
                 <?php echo esc_html__( 'starting from', 'tourpacker' ); ?>
@@ -259,7 +259,7 @@ if(have_posts()):
                     </div>
                   </div>
                   
-                  <div class="review-content">
+                  <div class="hidden review-content">
                   
                     <div class="row gap-20">
                     

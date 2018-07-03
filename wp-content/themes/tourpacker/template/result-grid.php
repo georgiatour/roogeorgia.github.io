@@ -117,9 +117,9 @@
 									<select name="tour_year" id="year_cus1" class="select2-multi form-control" data-placeholder="Choose a Departure Year" multiple>
 										<option value="">Choose a Departure Year</option>
 										<option value="00">Any Departure Year</option>
-										<option value="2016">2016</option>
-										<option value="2017">2017</option>
 										<option value="2018">2018</option>
+										<option value="2019">2019</option>
+										<option value="2020">2020</option>
 									</select>
 						              <input type="hidden" name="year_hidden" id="year_hidden1"/>
 						              <script>
@@ -231,7 +231,7 @@
 								</div>
 							</div>
 							
-							<div class="sidebar-module">
+							<div class="hidden sidebar-module">
 								<h6 class="sidebar-title">Price Range</h6>
 								<div class="sidebar-module-inner">
 									<input id="price_range" />
@@ -716,7 +716,7 @@
 										<div class="sorting-middle-holder">
 											<ul class="sort-by">
 												<li class="active up"><a href="#">Name <i class="fa fa-long-arrow-down"></i></a></li>
-												<li><a href="#">Price</a></li>
+												<!-- <li><a href="#">Price</a></li></li> -->
 												<li><a href="#">Location</a></li>
 												<li><a href="#">Start Rating</a></li>
 												<li><a href="#">User Rating</a></li>
@@ -729,8 +729,8 @@
 									<div class="sort-by-wrapper mt pull-right pull-left-sm mt-10-sm">
 										<label class="sorting-label">View as: </label> 
 										<div class="sorting-middle-holder">
-											<a href="<?php echo esc_attr($theme_option['result_search_list']) ?>" class="btn btn-sorting active"><i class="fa fa-th-list"></i></a>
-											<a href="<?php echo esc_attr($theme_option['result_search_grid']) ?>" class="btn btn-sorting"><i class="fa fa-th-large"></i></a>
+											<a href="<?php echo esc_attr($theme_option['result_search_list']) ?>" class="btn btn-sorting"><i class="fa fa-th-list"></i></a>
+											<a href="<?php echo esc_attr($theme_option['result_search_grid']) ?>" class="btn btn-sorting active"><i class="fa fa-th-large"></i></a>
 										</div>
 									</div>
 								</div>
@@ -816,7 +816,7 @@
 											</div>
 											<div class="absolute-in-content">
 												<span class="btn"><i class="fa fa-heart-o"></i></span>
-												<div class="price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
+												<div class="hidden price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
 											</div>
 										</div>
 									</a>
@@ -848,7 +848,7 @@
 								<div class="flex-column flex-sm-12">
 									<nav class="pager-right">
 										<ul class="pagination">
-											<?php //tourpacker_pagination(); ?>
+											<?php tourpacker_pagination(); ?>
 										</ul>
 									</nav>
 								</div>
