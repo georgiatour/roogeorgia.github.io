@@ -1091,7 +1091,7 @@ function result_list_word_ajax() {
                 </div>
               </div>
               
-              <div class="price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
+              <div class="hidden price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
               
               <a href="<?php the_permalink(); ?>" class="btn btn-primary btn-sm"><?php echo esc_html__( 'view', 'tourpacker' ); ?></a>
               
@@ -1191,7 +1191,7 @@ function result_list_ajax() {
                 </div>
               </div>
               
-              <div class="price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
+              <div class="hidden price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
               
               <a href="<?php the_permalink(); ?>" class="btn btn-primary btn-sm"><?php echo esc_html__( 'view', 'tourpacker' ); ?></a>
               
@@ -1282,7 +1282,7 @@ function result_list_filter_ajax() {
                 </div>
               </div>
               
-              <div class="price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
+              <div class="hidden price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
               
               <a href="<?php the_permalink(); ?>" class="btn btn-primary btn-sm"><?php echo esc_html__( 'view', 'tourpacker' ); ?></a>
               
@@ -1373,7 +1373,7 @@ function result_list_checkbox_ajax() {
                 </div>
               </div>
               
-              <div class="price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
+              <div class="hidden price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
               
               <a href="<?php the_permalink(); ?>" class="btn btn-primary btn-sm"><?php echo esc_html__( 'view', 'tourpacker' ); ?></a>
               
@@ -1466,7 +1466,7 @@ function result_single_tour() {
             <?php echo htmlspecialchars_decode($tour_departures_location); ?>
           </div>
           
-          <div class="price">
+          <div class="hidden price">
             <span class="availabily-heading-label">price:</span>
             <span>$<?php echo esc_attr($tour_departures_price); ?></span>
           </div>

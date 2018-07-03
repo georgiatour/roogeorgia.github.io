@@ -110,7 +110,7 @@
                   <div class="navbar-mini">
                     <ul class="clearfix">
                     
-                      <li class="dropdown bt-dropdown-click hidden-xs">
+                      <li class="dropdown bt-dropdown-click hidden hidden-xs">
                       <?php if(isset($theme_option['header_top_currency'])){ ?>
                         <a id="language-dropdown" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                           <i class="<?php echo esc_attr($theme_option['header_top_currency_icon']); ?> hidden-xss"></i> <?php echo esc_attr($theme_option['header_top_currency']); ?>

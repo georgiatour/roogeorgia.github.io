@@ -120,9 +120,9 @@
 									<select name="tour_year" id="year_cus1" class="select2-multi form-control" data-placeholder="Choose a Departure Year" multiple>
 										<option value=""><?php echo esc_html__('Choose a Departure Year','tourpacker'); ?></option>
 						                <option value="00"><?php echo esc_html__('Any Departure Year','tourpacker'); ?></option>
-						                <option value="2016"><?php echo esc_html__('2016','tourpacker'); ?></option>
-						                <option value="2017"><?php echo esc_html__('2017','tourpacker'); ?></option>
 						                <option value="2018"><?php echo esc_html__('2018','tourpacker'); ?></option>
+						                <option value="2019"><?php echo esc_html__('2019','tourpacker'); ?></option>
+						                <option value="2020"><?php echo esc_html__('2020','tourpacker'); ?></option>
 									</select>
 						              <input type="hidden" name="year_hidden" id="year_hidden1"/>
 						              <script>
@@ -237,7 +237,7 @@
 								</div>
 							</div>
 							
-							<div class="sidebar-module">
+							<div class="hidden sidebar-module">
 								<h6 class="sidebar-title"><?php echo esc_html__('Price Range','tourpacker'); ?></h6>
 								<div class="sidebar-module-inner">
 									<input id="price_range" />
@@ -725,7 +725,7 @@
 										<div class="sorting-middle-holder">
 											<ul class="sort-by">
 												<li class="active up"><a href="#">Name <i class="fa fa-long-arrow-down"></i></a></li>
-												<li><a href="#">Price</a></li>
+												<!-- <li><a href="#">Price</a></li></li> -->
 												<li><a href="#">Location</a></li>
 												<li><a href="#">Start Rating</a></li>
 												<li><a href="#">User Rating</a></li>
@@ -835,7 +835,7 @@
 											</div>
 										</div>
 										
-										<div class="price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
+										<div class="hidden price"><?php echo esc_attr($theme_option['payment_setting_currency']); ?> <?php echo esc_attr($tour_related_number_price);?></div>
 										
 										<a href="<?php the_permalink(); ?>" class="btn btn-primary btn-sm"><?php echo esc_html__( 'view', 'tourpacker' ); ?></a>
 										
