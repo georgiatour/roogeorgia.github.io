@@ -442,7 +442,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="05/01/2016" />
         <input type="hidden" name="book_end_day" value="05/09/2016" />
         <input type="hidden" name="book_title_tour" value="Viet Nam in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bde39c4e" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e867175a" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Ha Noi" />
         <input type="hidden" name="book_end_address" value="Ho Chi Minh" />
@@ -479,7 +479,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="05/17/2016" />
         <input type="hidden" name="book_end_day" value="05/22/2016" />
         <input type="hidden" name="book_title_tour" value="Viet Nam in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bde39d7b" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e867187d" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Ha Noi" />
         <input type="hidden" name="book_end_address" value="Ho Chi Minh" />
@@ -516,7 +516,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="06/08/2016" />
         <input type="hidden" name="book_end_day" value="06/13/2016" />
         <input type="hidden" name="book_title_tour" value="Viet Nam in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bde39e9d" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e867197b" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Ha Noi" />
         <input type="hidden" name="book_end_address" value="Ho Chi Minh" />
@@ -553,7 +553,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="07/01/2016" />
         <input type="hidden" name="book_end_day" value="07/06/2016" />
         <input type="hidden" name="book_title_tour" value="Viet Nam in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bde39fc8" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e8671a80" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Ha Noi" />
         <input type="hidden" name="book_end_address" value="Ho Chi Minh" />
@@ -1209,7 +1209,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="07/02/2017" />
         <input type="hidden" name="book_end_day" value="07/10/2017" />
         <input type="hidden" name="book_title_tour" value="Lyon in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bde7caa6" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e86b8512" />
         <input type="hidden" name="book_duration" value="6 days & 5 nights" />
         <input type="hidden" name="book_start_address" value="Lyon" />
         <input type="hidden" name="book_end_address" value="Linz" />
@@ -1246,7 +1246,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="08/01/2017" />
         <input type="hidden" name="book_end_day" value="08/05/2017" />
         <input type="hidden" name="book_title_tour" value="Lyon in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bde7cbd3" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e86b8648" />
         <input type="hidden" name="book_duration" value="6 days & 5 nights" />
         <input type="hidden" name="book_start_address" value="Lyon" />
         <input type="hidden" name="book_end_address" value="Linz" />
@@ -1274,58 +1274,6 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/croatia-sailing-cruising/">
-            <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/01-36hmqftp4uux3v7yiplrls.jpg" alt="Croatia Sailing &#038; Cruising" />
-              <div class="absolute-in-image">
-                <div class="duration"><span>4 days &amp; 3 nights</span></div>
-              </div>
-            </div>
-            <div class="content clearfix">
-              <h6>Croatia Sailing &#038; Cruising</h6>
-              <div class="rating-wrapper">
-                <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.8"></div> <span> / 150 review</span>
-                </div>
-              </div>
-              <div class="absolute-in-content">
-                <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ1422</div>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-           
-    
-      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
-        <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/germany-in-love/">
-            <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/04-36hmqq4m4ukczufg3qrj7k.jpg" alt="Germany in Love" />
-              <div class="absolute-in-image">
-                <div class="duration"><span>3 days &amp; 2 nights</span></div>
-              </div>
-            </div>
-            <div class="content clearfix">
-              <h6>Germany in Love</h6>
-              <div class="rating-wrapper">
-                <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.69"></div> <span> / 160 review</span>
-                </div>
-              </div>
-              <div class="absolute-in-content">
-                <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ850</div>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-           
-    
-      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
-        <div class="package-grid-item"> 
           <a href="https://roogeorgia.github.io/website/tour/classic-europe/">
             <div class="image">
               <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/03-36hmqpvkg9hzfqxpc0e800.jpg" alt="Classic Europe" />
@@ -1343,6 +1291,58 @@ jQuery(function($){
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
                 <div class="price">ლ</div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+           
+    
+      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
+        <div class="package-grid-item"> 
+          <a href="https://roogeorgia.github.io/website/tour/paris-in-love/">
+            <div class="image">
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/02-2-36hmqpmiroflvnfyka0wsg.jpg" alt="Paris in Love" />
+              <div class="absolute-in-image">
+                <div class="duration"><span>4 days &amp; 3 nights</span></div>
+              </div>
+            </div>
+            <div class="content clearfix">
+              <h6>Paris in Love</h6>
+              <div class="rating-wrapper">
+                <div class="raty-wrapper">
+                  <div class="star-rating-12px" data-rating-score="4.2"></div> <span> / 319 review</span>
+                </div>
+              </div>
+              <div class="absolute-in-content">
+                <span class="btn"><i class="fa fa-heart-o"></i></span>
+                <div class="price">ლ1120</div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+           
+    
+      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
+        <div class="package-grid-item"> 
+          <a href="https://roogeorgia.github.io/website/tour/croatia-sailing-cruising/">
+            <div class="image">
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/01-36hmqftp4uux3v7yiplrls.jpg" alt="Croatia Sailing &#038; Cruising" />
+              <div class="absolute-in-image">
+                <div class="duration"><span>4 days &amp; 3 nights</span></div>
+              </div>
+            </div>
+            <div class="content clearfix">
+              <h6>Croatia Sailing &#038; Cruising</h6>
+              <div class="rating-wrapper">
+                <div class="raty-wrapper">
+                  <div class="star-rating-12px" data-rating-score="3.8"></div> <span> / 150 review</span>
+                </div>
+              </div>
+              <div class="absolute-in-content">
+                <span class="btn"><i class="fa fa-heart-o"></i></span>
+                <div class="price">ლ1422</div>
               </div>
             </div>
           </a>
@@ -1954,7 +1954,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="07/01/2016" />
         <input type="hidden" name="book_end_day" value="07/04/2016" />
         <input type="hidden" name="book_title_tour" value="Germany in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdeb05b3" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e8751e59" />
         <input type="hidden" name="book_duration" value="3 days & 2 nights" />
         <input type="hidden" name="book_start_address" value="Berlin" />
         <input type="hidden" name="book_end_address" value="Munich" />
@@ -1991,7 +1991,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="08/01/2016" />
         <input type="hidden" name="book_end_day" value="08/11/2016" />
         <input type="hidden" name="book_title_tour" value="Germany in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdeb06de" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e8751f93" />
         <input type="hidden" name="book_duration" value="3 days & 2 nights" />
         <input type="hidden" name="book_start_address" value="Berlin" />
         <input type="hidden" name="book_end_address" value="Munich" />
@@ -2028,7 +2028,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="09/01/2016" />
         <input type="hidden" name="book_end_day" value="09/07/2016" />
         <input type="hidden" name="book_title_tour" value="Germany in Love" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdeb0863" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e87520ca" />
         <input type="hidden" name="book_duration" value="3 days & 2 nights" />
         <input type="hidden" name="book_start_address" value="Berlin" />
         <input type="hidden" name="book_end_address" value="Munich" />
@@ -2056,23 +2056,23 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/croatia-sailing-cruising/">
+          <a href="https://roogeorgia.github.io/website/tour/classic-europe/">
             <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/01-36hmqftp4uux3v7yiplrls.jpg" alt="Croatia Sailing &#038; Cruising" />
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/03-36hmqpvkg9hzfqxpc0e800.jpg" alt="Classic Europe" />
               <div class="absolute-in-image">
-                <div class="duration"><span>4 days &amp; 3 nights</span></div>
+                <div class="duration"><span>5 days &amp; 4 nights</span></div>
               </div>
             </div>
             <div class="content clearfix">
-              <h6>Croatia Sailing &#038; Cruising</h6>
+              <h6>Classic Europe</h6>
               <div class="rating-wrapper">
                 <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.8"></div> <span> / 150 review</span>
+                  <div class="star-rating-12px" data-rating-score="3.6"></div> <span> / 375 review</span>
                 </div>
               </div>
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ1422</div>
+                <div class="price">ლ</div>
               </div>
             </div>
           </a>
@@ -2108,23 +2108,23 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/classic-europe/">
+          <a href="https://roogeorgia.github.io/website/tour/paris-in-love/">
             <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/03-36hmqpvkg9hzfqxpc0e800.jpg" alt="Classic Europe" />
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/02-2-36hmqpmiroflvnfyka0wsg.jpg" alt="Paris in Love" />
               <div class="absolute-in-image">
-                <div class="duration"><span>5 days &amp; 4 nights</span></div>
+                <div class="duration"><span>4 days &amp; 3 nights</span></div>
               </div>
             </div>
             <div class="content clearfix">
-              <h6>Classic Europe</h6>
+              <h6>Paris in Love</h6>
               <div class="rating-wrapper">
                 <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.6"></div> <span> / 375 review</span>
+                  <div class="star-rating-12px" data-rating-score="4.2"></div> <span> / 319 review</span>
                 </div>
               </div>
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ</div>
+                <div class="price">ლ1120</div>
               </div>
             </div>
           </a>
@@ -2727,32 +2727,6 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/germany-in-love/">
-            <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/04-36hmqq4m4ukczufg3qrj7k.jpg" alt="Germany in Love" />
-              <div class="absolute-in-image">
-                <div class="duration"><span>3 days &amp; 2 nights</span></div>
-              </div>
-            </div>
-            <div class="content clearfix">
-              <h6>Germany in Love</h6>
-              <div class="rating-wrapper">
-                <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.69"></div> <span> / 160 review</span>
-                </div>
-              </div>
-              <div class="absolute-in-content">
-                <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ850</div>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-           
-    
-      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
-        <div class="package-grid-item"> 
           <a href="https://roogeorgia.github.io/website/tour/croatia-sailing-cruising/">
             <div class="image">
               <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/01-36hmqftp4uux3v7yiplrls.jpg" alt="Croatia Sailing &#038; Cruising" />
@@ -2770,6 +2744,32 @@ jQuery(function($){
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
                 <div class="price">ლ1422</div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+           
+    
+      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
+        <div class="package-grid-item"> 
+          <a href="https://roogeorgia.github.io/website/tour/germany-in-love/">
+            <div class="image">
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/04-36hmqq4m4ukczufg3qrj7k.jpg" alt="Germany in Love" />
+              <div class="absolute-in-image">
+                <div class="duration"><span>3 days &amp; 2 nights</span></div>
+              </div>
+            </div>
+            <div class="content clearfix">
+              <h6>Germany in Love</h6>
+              <div class="rating-wrapper">
+                <div class="raty-wrapper">
+                  <div class="star-rating-12px" data-rating-score="3.69"></div> <span> / 160 review</span>
+                </div>
+              </div>
+              <div class="absolute-in-content">
+                <span class="btn"><i class="fa fa-heart-o"></i></span>
+                <div class="price">ლ850</div>
               </div>
             </div>
           </a>
@@ -3395,32 +3395,6 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/croatia-sailing-cruising/">
-            <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/01-36hmqftp4uux3v7yiplrls.jpg" alt="Croatia Sailing &#038; Cruising" />
-              <div class="absolute-in-image">
-                <div class="duration"><span>4 days &amp; 3 nights</span></div>
-              </div>
-            </div>
-            <div class="content clearfix">
-              <h6>Croatia Sailing &#038; Cruising</h6>
-              <div class="rating-wrapper">
-                <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.8"></div> <span> / 150 review</span>
-                </div>
-              </div>
-              <div class="absolute-in-content">
-                <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ1422</div>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-           
-    
-      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
-        <div class="package-grid-item"> 
           <a href="https://roogeorgia.github.io/website/tour/viet-nam-in-love/">
             <div class="image">
               <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/06-36hmqqvr6lrho4woexvgu8.jpg" alt="Viet Nam in Love" />
@@ -3438,6 +3412,32 @@ jQuery(function($){
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
                 <div class="price">ლ1050</div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+           
+    
+      <div class="GridLex-col-4_sm-4_xs-12 mb-20">
+        <div class="package-grid-item"> 
+          <a href="https://roogeorgia.github.io/website/tour/classic-europe/">
+            <div class="image">
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/03-36hmqpvkg9hzfqxpc0e800.jpg" alt="Classic Europe" />
+              <div class="absolute-in-image">
+                <div class="duration"><span>5 days &amp; 4 nights</span></div>
+              </div>
+            </div>
+            <div class="content clearfix">
+              <h6>Classic Europe</h6>
+              <div class="rating-wrapper">
+                <div class="raty-wrapper">
+                  <div class="star-rating-12px" data-rating-score="3.6"></div> <span> / 375 review</span>
+                </div>
+              </div>
+              <div class="absolute-in-content">
+                <span class="btn"><i class="fa fa-heart-o"></i></span>
+                <div class="price">ლ</div>
               </div>
             </div>
           </a>
@@ -4075,7 +4075,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="03/01/2016" />
         <input type="hidden" name="book_end_day" value="03/06/2016" />
         <input type="hidden" name="book_title_tour" value="Croatia Sailing &#038; Cruising" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdfa7585" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e88376dc" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Dubrovnik" />
         <input type="hidden" name="book_end_address" value="Hvar" />
@@ -4112,7 +4112,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="03/15/2016" />
         <input type="hidden" name="book_end_day" value="03/19/2016" />
         <input type="hidden" name="book_title_tour" value="Croatia Sailing &#038; Cruising" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdfa76b8" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e88377e2" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Dubrovnik" />
         <input type="hidden" name="book_end_address" value="Hvar" />
@@ -4149,7 +4149,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="04/01/2016" />
         <input type="hidden" name="book_end_day" value="04/08/2016" />
         <input type="hidden" name="book_title_tour" value="Croatia Sailing &#038; Cruising" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdfa77ef" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e88378e3" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Dubrovnik" />
         <input type="hidden" name="book_end_address" value="Hvar" />
@@ -4186,7 +4186,7 @@ jQuery(function($){
         <input type="hidden" name="book_start_day" value="04/09/2016" />
         <input type="hidden" name="book_end_day" value="04/19/2016" />
         <input type="hidden" name="book_title_tour" value="Croatia Sailing &#038; Cruising" />
-        <input type="hidden" name="book_id_tour" value="5b3c1bdfa7918" />
+        <input type="hidden" name="book_id_tour" value="5b3c1e88379e3" />
         <input type="hidden" name="book_duration" value="4 days & 3 nights" />
         <input type="hidden" name="book_start_address" value="Dubrovnik" />
         <input type="hidden" name="book_end_address" value="Hvar" />
@@ -4214,23 +4214,23 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/germany-in-love/">
+          <a href="https://roogeorgia.github.io/website/tour/lyon-in-love/">
             <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/04-36hmqq4m4ukczufg3qrj7k.jpg" alt="Germany in Love" />
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/05-36hmqqmpi0p441exn7i5mo.jpg" alt="Lyon in Love" />
               <div class="absolute-in-image">
-                <div class="duration"><span>3 days &amp; 2 nights</span></div>
+                <div class="duration"><span>6 days &amp; 5 nights</span></div>
               </div>
             </div>
             <div class="content clearfix">
-              <h6>Germany in Love</h6>
+              <h6>Lyon in Love</h6>
               <div class="rating-wrapper">
                 <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="3.69"></div> <span> / 160 review</span>
+                  <div class="star-rating-12px" data-rating-score="3.56"></div> <span> / 205 review</span>
                 </div>
               </div>
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ850</div>
+                <div class="price">ლ1700</div>
               </div>
             </div>
           </a>
@@ -4266,23 +4266,23 @@ jQuery(function($){
     
       <div class="GridLex-col-4_sm-4_xs-12 mb-20">
         <div class="package-grid-item"> 
-          <a href="https://roogeorgia.github.io/website/tour/paris-in-love/">
+          <a href="https://roogeorgia.github.io/website/tour/germany-in-love/">
             <div class="image">
-              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/02-2-36hmqpmiroflvnfyka0wsg.jpg" alt="Paris in Love" />
+              <img src="https://roogeorgia.github.io/website/wp-content/uploads/bfi_thumb/04-36hmqq4m4ukczufg3qrj7k.jpg" alt="Germany in Love" />
               <div class="absolute-in-image">
-                <div class="duration"><span>4 days &amp; 3 nights</span></div>
+                <div class="duration"><span>3 days &amp; 2 nights</span></div>
               </div>
             </div>
             <div class="content clearfix">
-              <h6>Paris in Love</h6>
+              <h6>Germany in Love</h6>
               <div class="rating-wrapper">
                 <div class="raty-wrapper">
-                  <div class="star-rating-12px" data-rating-score="4.2"></div> <span> / 319 review</span>
+                  <div class="star-rating-12px" data-rating-score="3.69"></div> <span> / 160 review</span>
                 </div>
               </div>
               <div class="absolute-in-content">
                 <span class="btn"><i class="fa fa-heart-o"></i></span>
-                <div class="price">ლ1120</div>
+                <div class="price">ლ850</div>
               </div>
             </div>
           </a>
