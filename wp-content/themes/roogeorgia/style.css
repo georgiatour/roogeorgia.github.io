@@ -49,3 +49,7 @@ Text Domain:  tourpacker-child
   from {transform: translateY(0); }
   to {transform: translateY(-50%); }
 }
+
+.navbar-top .lang_swtich li a {
+	color: #fff;
+}
