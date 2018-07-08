@@ -9,3 +9,43 @@ Version: 1.0
 Text Domain:  tourpacker-child
 */
 @import url("https://roogeorgia.github.io/website/wp-content/themes/tourpacker/style.css");
+
+#section-1.tour-detail.detail-content {
+	display: table !important;
+}
+
+.package-grid-item .content .absolute-in-content {display: none !important}
+
+.package-grid-item .content{ padding-right: 15px !important }
+
+.main-wrapper {
+	position:relative;
+}
+#roos {
+  width: 100%;
+  height: 412px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-repeat: repeat;
+  background-size: cover;
+  -webkit-animation: updown 20s linear infinite;
+  animation: updown 20s linear infinite;
+  -webkit-transition: 3s ease-in-out;
+  -moz-transition: 3s ease-in-out;
+  -ms-transition: 3s ease-in-out;
+  -o-transition: 3s ease-in-out;
+  transition: 3s ease-in-out;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes updown {
+  from {-webkit-transform: translateY(0); }
+  to {-webkit-transform: translateY(-50%); }
+}
+
+/* Standard syntax */
+@keyframes updown {
+  from {transform: translateY(0); }
+  to {transform: translateY(-50%); }
+}
