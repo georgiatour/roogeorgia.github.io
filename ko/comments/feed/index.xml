@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>georgiatour &#8211; Roo&#039;s Georgia Tour &amp; Travel Adventures</title>
-	<atom:link href="https://roogeorgia.github.io/website/ko/author/georgiatour/feed/" rel="self" type="application/rss+xml" />
+	<title>Roo&#039;s Georgia Tour &amp; Travel Adventures를 위한 댓글</title>
+	<atom:link href="https://roogeorgia.github.io/website/ko/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://roogeorgia.github.io/website</link>
 	<description></description>
-	<lastBuildDate>Sun, 08 Jul 2018 14:17:07 +0000</lastBuildDate>
-	<language>ko-KR</language>
+	<lastBuildDate>Sun, 08 Jul 2018 14:31:32 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.7</generator>
