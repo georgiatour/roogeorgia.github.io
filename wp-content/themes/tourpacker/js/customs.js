@@ -240,7 +240,7 @@
 		/**
 		 * Raty - Rating Star
 		 */
-		$.fn.raty.defaults.path = 'https://roogeorgia.github.io/website/tourpacker/images/raty';
+		$.fn.raty.defaults.path = 'https://roogeorgia.github.io/website/wp-content/themes/tourpacker/images/raty';
 		
 		// Default size star 
 		$('.star-rating').raty({
@@ -265,7 +265,7 @@
 		
 		// Smaller size star
 		$('.star-rating-12px').raty({
-			path: 'https://roogeorgia.github.io/website/tourpacker/images/raty',
+			path: 'https://roogeorgia.github.io/website/wp-content/themes/tourpacker/images/raty',
 			starHalf: 'star-half-sm.png',
 			starOff: 'star-off-sm.png',
 			starOn: 'star-on-sm.png',
@@ -280,7 +280,7 @@
 		
 		// White color default size star
 		$('.star-rating-white').raty({
-			path: 'https://roogeorgia.github.io/website/tourpacker/images/raty',
+			path: 'https://roogeorgia.github.io/website/wp-content/themes/tourpacker/images/raty',
 			starHalf: 'star-half-white.png',
 			starOff: 'star-off-white.png',
 			starOn: 'star-on-white.png',
