@@ -9,7 +9,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Roo&#039;s Georgia Tour &amp; Travel Adventures &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='https://roogeorgia.github.io/website/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' href='https://roogeorgia.github.io/website/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.7' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 		</head>
@@ -53,7 +53,7 @@ if(typeof wpOnload=='function')wpOnload();
 </script>
 
 	<p id="backtoblog"><a href="https://roogeorgia.github.io/website/">&larr; Back to Roo&#039;s Georgia Tour &amp; Travel Adventures</a></p>
-	
+		
 	</div>
 
 	
